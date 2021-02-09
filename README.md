@@ -4,6 +4,8 @@ I have 4 years of experience working in the engineering and technology fields. I
 
 My expertise lies in the development of web-based and desktop applications that provide solutions at both the product development and production level.
 
+Every project is unique and requires a perfectly tailored solution. This demands great focus on details, exactly the quality that sets me apart in this industry. Nothing standard or common takes place in my work, nor any specific style as I adapt according to every requirement.
+
 I am an overachiever focused on constant improvement. Whatever the problem, I always find the most innovative solutions. I see every task as a new challenge and take pride in my ability to deliver the best results with passion and complete dedication.
 
 # Stats
