@@ -1,6 +1,6 @@
 # About Me
 
-I have 4 years of experience working in the engineering and technology fields. I’ve helped companies like De’Longhi and Continental solve various problems by creating tools that help with product workflow automation, process optimization, management and traceability.
+I have over 5 years of experience working in the engineering and technology fields. I’ve helped companies like GEP, De’Longhi and Continental solve various problems by creating tools that help with product workflow automation, process optimization, management and traceability.
 
 My expertise lies in the development of web-based and desktop applications that provide solutions at both the product development and production level.
 
