@@ -2,11 +2,11 @@
 
 I have over 5 years of experience working in the engineering and technology fields. I’ve helped companies like GEP, De’Longhi and Continental solve various problems by creating tools that help with product workflow automation, process optimization, management and traceability.
 
-My expertise lies in the development of web-based and desktop applications that provide solutions at both the product development and production level.
+My expertise lies in the development of web-based and desktop applications that provide end-to-end solutions for any business process.
 
 Every project is unique and requires a perfectly tailored solution. This demands great focus on details, exactly the quality that sets me apart in this industry. Nothing standard or common takes place in my work, nor any specific style as I adapt according to every requirement.
 
-I am an overachiever focused on constant improvement. Whatever the problem, I always find the most innovative solutions. I see every task as a new challenge and take pride in my ability to deliver the best results with passion and complete dedication.
+As a Top Rated Freelancer on Upwork, I am an overachiever focused on constant improvement. Whatever the problem, I always find the most innovative solutions. I see every task as a new challenge and take pride in my ability to deliver the best results with passion and complete dedication.
 
 # Stats
 
