@@ -1,12 +1,12 @@
 # About Me
 
-I have over 6 years of experience working in the engineering and technology fields. While working with companies like GEP, De’Longhi, and Continental, I created tools that increased product workflow automation, process optimization, management, and traceability.
+With 6+ years of experience in engineering and technology, I have contributed to various organizations such as GEP, De’Longhi, and Continental, by developing software that streamlines business processes, boosts efficiency, and automates workflows.
 
-My expertise lies in the development of web-based and desktop applications that provide end-to-end solutions for any business process.
+My expertise lies in developing web applications that offer end-to-end solutions for various business processes, utilizing cutting-edge technology standards. I have successfully led and accelerated teams responsible for business-critical applications, enabling them to operate autonomously and deliver swift outcomes.
 
-Every project is unique and requires a perfectly tailored solution. This demands great focus on details, exactly the quality that sets me apart in this industry. Nothing standard or common takes place in my work, nor any specific style as I adapt according to every requirement.
+When approaching a new project, I strive to create personalized solutions that cater to specific requirements. My attention to detail, coupled with my ability to adapt to the unique needs of each project, sets me apart in the industry and enables me to always exceed the client's expectations.
 
-As a Top Rated Freelancer on Upwork, I am an overachiever focused on constant improvement. Whatever the problem, I always find the most innovative solutions. I see every task as a new challenge and take pride in my ability to deliver the best results with passion and complete dedication.
+As a Top Rated Freelancer on Upwork, I am always seeking out innovative solutions to any challenge and take pride in delivering exceptional results with unwavering dedication and passion.
 
 # Stats
 
