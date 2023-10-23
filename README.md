@@ -1,6 +1,6 @@
 # About Me
 
-With 6+ years of experience in engineering and technology, I have contributed to various organizations such as GEP, De’Longhi, and Continental, by developing software that streamlines business processes, boosts efficiency, and automates workflows.
+With 7+ years of experience in engineering and technology, I have contributed to various organizations such as GEP, De’Longhi, and Continental, by developing software that streamlines business processes, boosts efficiency, and automates workflows.
 
 My expertise lies in developing web applications that offer end-to-end solutions for various business processes, utilizing cutting-edge technology standards. I have successfully led and accelerated teams responsible for business-critical applications, enabling them to operate autonomously and deliver swift outcomes.
 
