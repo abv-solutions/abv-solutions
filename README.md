@@ -1,12 +1,12 @@
 # About Me
 
-With 9+ years of experience in engineering and technology, I have contributed to various organizations such as GEP, De’Longhi, and Continental, by developing software that streamlines business processes, boosts efficiency, and automates workflows.
+With over 10 years in software engineering and technology leadership, I’ve helped organizations such as GEP, De’Longhi, and Continental transform operations through web-based solutions that streamline processes, boost efficiency, and automate workflows.
 
-My expertise lies in developing web applications that offer end-to-end solutions for various business processes, utilizing cutting-edge technology standards. I have successfully led and accelerated teams responsible for business-critical applications, enabling them to operate autonomously and deliver swift outcomes.
+I specialize in designing and delivering end-to-end web applications and cloud-native platforms, combining modern technologies with agile practices to solve complex business challenges. As a Technical Lead, I’ve guided diverse teams to build business-critical applications, empowering them to operate autonomously and deliver high-impact results at speed.
 
-When approaching a new project, I strive to create personalized solutions that cater to specific requirements. My attention to detail, coupled with my ability to adapt to the unique needs of each project, sets me apart in the industry and enables me to always exceed the client's expectations.
+As a Professional Scrum Master™, cloud-certified engineer, and Top-Rated Freelancer on Upwork, I bring both structure and adaptability to every engagement. I take pride in creating tailored solutions that exceed expectations—balancing hands-on engineering with strategic leadership.
 
-As a Top Rated Freelancer on Upwork, I am always seeking out innovative solutions to any challenge and take pride in delivering exceptional results with unwavering dedication and passion.
+I work fluently across JavaScript (Angular, React), C#, ASP.NET Core, Node.js, Express, SQL, MongoDB, Firebase, HTML, and CSS—always eager to explore new tools that push innovation forward.
 
 # Stats
 
